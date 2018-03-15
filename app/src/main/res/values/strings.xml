@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Requirement</string>
+
+    <array name="domain">
+
+        <item>Funds</item>
+        <item>Clothes</item>
+        <item>Stationary</item>
+        <item>Old Furniture</item>
+        <item>Gadget</item>
+
+    </array>
+</resources>
